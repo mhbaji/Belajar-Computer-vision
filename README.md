@@ -13,5 +13,5 @@
 - frameKanan = frame[0:hight, int(width/2):width]
 
 ## 2. Face Detection
-> File .xml Haar Cascade: https://github.com/opencv/opencv/tree/4.x/data/haarcascades <br \>
+> File .xml Haar Cascade: https://github.com/opencv/opencv/tree/4.x/data/haarcascades <br />
 > Link Mediapipe: https://google.github.io/mediapipe/
